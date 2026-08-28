@@ -1,0 +1,135 @@
+baseURL: "https://juliancabreranyst.github.io/" 
+title: Mónica Tapia del Moral
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Home
+          url: /
+          weight: 10
+        - name: Research
+          url: /research
+          weight: 20
+        - name: Teaching
+          url: /teaching
+          weight: 30
+        - name: Contact
+          url: /contact
+          weight: 40
+        #- name: Papers
+          #url: papers/
+          #weight: 2
+        #- name: Courses
+          #url: courses/
+          #weight: 3
+        #- name: Data
+          #url: data/
+          #weight: 4 
+        #- name: Blog
+          #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          #weight: 6
+
+params:
+    description: "This website hosts Mónica Tapia del Moral research papers, research interests, curriculum vitae, and contact information."
+    author: Mónica Tapia del Moral
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["books","courses","papers","data"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Mónica Tapia del Moral
+          subtitle: "Hi! I am a third-year PhD student in Mathematics at <a href='https://www.damtp.cam.ac.uk/' style='color: #2d5049 !important;'>DAMPT</a>, <a href='https://www.cam.ac.uk/' style='color: #2d5049 !important;'>University of Cambridge</a>. My supervisors are <a href='https://www.dpmms.cam.ac.uk/~cmw50/' style='color: #2d5049 !important;'>Claude Warnick</a> and <a href='https://www.dpmms.cam.ac.uk/~md384/' style='color: #2d5049 !important;'>Mihalis Dafermos</a>.<br><br>My email is <a href='mailto:mt891@cam.ac.uk' style='color: #2d5049 !important;'>mt891[at]cam.ac.uk</a>"
+          imageUrl: "profile-pic-1.jpg"
+          imageWidth: 200
+          imageHeight: 200
+          buttons:
+            #- name: Research 
+              #url: research/
+            #- name: Teaching
+              #url: teaching/
+            #- name: Contact
+              #url: contact/
+            #- name: Books
+              #url: books/
+            #- name: Papers
+              #url: papers/
+            #- name: Tags
+              #url: tags/
+            #- name: Archive
+              #url: archive/
+            #- name: Blog
+              #url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+
+    socialIcons:
+        - name: CV
+          url: CV-Cabrera-Nyst_Linares_Julian.pdf
+        - name: Email
+          url: mailto:mt891@cam.ac.uk
+        #- name: Zoom
+          #url: https://www.zoom.us/my/user
+        #- name: Location
+          #url: location/
+        #- name: Office Hours
+          #url: officehours/
+        - name: ORCID 
+          url: https://orcid.org/0009-0006-8110-956X
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=Ee634fQAAAAJ&hl=es&oi=sra
+        #- name: GitHub
+          #url: https://github.com/user
+        #- name: YouTube
+          #url: https://www.youtube.com/@user
+        #- name: Substack
+          #url: https://user.substack.com
+        #- name: Twitter
+          #url: https://x.com/user
+        #- name: Bluesky
+          #url: https://bsky.app/profile/user.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Mónica Tapia del Moral"
+      icon: #favicon.ico
+      iconHeight: 15
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

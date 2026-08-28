@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("/fonts/lmroman10-regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("/fonts/lmroman10-italic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("/fonts/lmroman10-bold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Latin Modern Roman";
+  src: url("/fonts/lmroman10-bolditalic.otf") format("opentype");
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+}
+
+/* Apply the font to the entire website */
+body, h1, h2, h3, h4, h5, h6, .profile_inner h1 {
+  font-family: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif !important;
+}
+
+/* Name in home page not in bold font */
+.post-meta {
+    display: none !important;
+}
+
+.profile_inner h1, .first-entry .entry-header h1 {
+    font-weight: normal !important;
+} 
+/* Name in home page not in bold font */
+
+/* 1. Change profile layout to side-by-side */
+.profile_inner {
+    display: grid !important;
+    grid-template-columns: 240px 1fr; /* Locks the left column to your exact image size */
+    grid-template-areas: 
+        "img title"
+        "img subtitle"
+        "icons subtitle"; /* Removed the buttons area */
+    column-gap: 80px;
+    row-gap: 30rem;
+    text-align: left !important;
+    align-items: start !important; /* Keeps the image at the top even if your text is long */
+}
+
+/* 2. Force the rectangular image into a perfect sharp square */
+.profile_inner img {
+    grid-area: img;
+    border-radius: 8px !important; /* 0px makes the corners perfectly sharp */
+    width: 220px !important;       /* Set a fixed width */
+    height: 250px !important;      /* Set the exact same height to force a square */
+    object-fit: cover !important;  /* Automatically crops the rectangle into a square without stretching */
+    margin: 0px !important;
+    margin-right: 0px !important; /* Add separation between image and text */
+}
+
+/* 3. Center social icons with respect to the profile picture */
+.profile_inner .social-icons {
+    grid-area: icons;
+    width: 220px !important;
+    display: flex !important;
+    justify-content: center !important;
+}
+/* 4. Make it stack nicely on mobile phones */
+@media (max-width: 768px) {
+    .profile_inner {
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+            "img"
+            "icons"      /* On mobile, icons will stay right under the image */
+            "title"
+            "subtitle"; /* Removed the buttons area */
+        text-align: center !important;
+        row-gap: 1.5rem;
+        align-items: center !important;
+    }
+    .profile_inner img {
+        margin: 0 auto !important;
+    }
+    .profile_inner .social-icons, .profile_inner .buttons {
+        justify-content: center !important;
+    }
+  }

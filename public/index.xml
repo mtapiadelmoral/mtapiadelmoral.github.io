@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mónica Tapia del Moral</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mónica Tapia del Moral</description>
+    <generator>Hugo -- 0.165.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Location</title>
+      <link>http://localhost:1313/location/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/location/</guid>
+      <description>Professor Dr von Igelfeld&amp;#39;s mailing and office addresses at the Institute of Romance Philology.</description>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>http://localhost:1313/officehours/</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/officehours/</guid>
+      <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
+    </item>
+    <item>
+      <title>Your Inner Hedgehog</title>
+      <link>http://localhost:1313/papers/paper3/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper3/</guid>
+      <description>This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021.</description>
+    </item>
+    <item>
+      <title>List of Irregular Verbs Across Romance Languages</title>
+      <link>http://localhost:1313/data/data1/</link>
+      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/data1/</guid>
+      <description>This dataset contains all irregular verbs in known Romance languages.</description>
+    </item>
+    <item>
+      <title>Unusual Uses For Olive Oil</title>
+      <link>http://localhost:1313/papers/paper1/</link>
+      <pubDate>Tue, 15 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper1/</guid>
+      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+    </item>
+    <item>
+      <title>The Finer Points of Sausage Dogs</title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Tue, 28 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004.</description>
+    </item>
+    <item>
+      <title>Lectures at the Villa of Reduced Circumstances</title>
+      <link>http://localhost:1313/courses/course1/</link>
+      <pubDate>Mon, 10 Mar 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course1/</guid>
+      <description>This graduate course presents classical results in Romance philology.</description>
+    </item>
+    <item>
+      <title>Portugese Irregular Verbs</title>
+      <link>http://localhost:1313/books/book1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/books/book1/</guid>
+      <description>This book discusses Portugese irregular verbs in great details.</description>
+    </item>
+    <item>
+      <title>Profanity in Early Irish</title>
+      <link>http://localhost:1313/courses/course2/</link>
+      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/course2/</guid>
+      <description>This undergraduate course discusses profanity in Early Irish.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#39;mailto:jcabreranyst@ugr.es&#39; class=&#39;accent-link&#39;&gt;jcabreranyst@ugr.es&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Office Address:&lt;/strong&gt;&lt;br&gt;
+Departamento de Matemática Aplicada (Despacho 60)&lt;br&gt;
+Facultad de Ciencias, Universidad de Granada&lt;br&gt;
+Avenida de Fuente Nueva, S/N&lt;br&gt;
+18071 Granada, Spain&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
+&lt;iframe 
+    width=&#34;100%&#34; 
+    height=&#34;450&#34; 
+    frameborder=&#34;0&#34; 
+    scrolling=&#34;no&#34; 
+    marginheight=&#34;0&#34; 
+    marginwidth=&#34;0&#34; 
+    src=&#34;https://maps.google.com/maps?q=Facultad+de+Ciencias,+Universidad+de+Granada&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed&#34;
+    style=&#34;border: 1px solid #d9d7d2; border-radius: 6px; margin-top: 10px;&#34;&gt;
+&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;p&gt;My research centers on non-exchangeable interacting particle systems, with a specific focus on their large-population limits (both mean-field and hydrodynamic) and their long-time and collective behavior.&lt;/p&gt;
+&lt;!--
+My current methodology bridges the gap between microscopic multi-agent systems (governed by coupled ODEs) and their macroscopic descriptions (governed by PDEs like the Vlasov equation) to understand how complex, large-scale phenomena emerge.
+
+### Core Research Focus
+
+*   **Mean-Field Limits:** Deriving rigorous macroscopic limits (as $N \to \infty$) for interacting particle systems, specifically those involving singular or higher-order multiple interactions.
+*   **Heterogeneous Networks:** Extending kinetic theory to systems with distinguishable agents, utilizing graphons, probability-graphons and hypergraphs to model complex communication topologies.
+ --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
+&lt;h3 id=&#34;mean-field-limit-of-non-exchangeable-interacting-diffusions-on-co-evolutionary-networks-68-pages&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2606.21556&#34; target=&#34;_blank&#34;&gt;Mean field limit of non-exchangeable interacting diffusions on co-evolutionary networks&lt;/a&gt; (68 pages)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Julián Cabrera-Nyst, David Poyato&lt;/strong&gt; (2026) · &lt;em&gt;arXiv:2606.21556&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research1/</guid>
+      <description>&lt;p&gt;My current focus lies in the mathematical modeling and analysis of collective dynamics&amp;hellip; Here you can find a list of preprints&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;preprints--publications&#34;&gt;Preprints &amp;amp; Publications&lt;/h2&gt;
+&lt;h3 id=&#34;mean-field-limit-of-non-exchangeable-interacting-diffusions-on-co-evolutionary-networks&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2606.21556&#34; target=&#34;_blank&#34;&gt;Mean field limit of non-exchangeable interacting diffusions on co-evolutionary networks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Julián Cabrera-Nyst, David Poyato&lt;/strong&gt; (2026) · &lt;em&gt;arXiv:2606.21556&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; Systems in which the network structure and particle states co-evolve in mutual influence are increasingly recognized as essential for modeling complex adaptive systems. However, traditional models of non-exchangeable interacting particle systems frequently assume a fixed network topology, a simplification that fails to capture the dynamical nature of many real-world phenomena. In this paper, we rigorously establish the mean-field limit for systems of non-exchangeable interacting diffusions on co-evolutionary networks. The primary analytical challenge arises from the coupling between the network dynamics and the agents&amp;rsquo; states, which induces non-Markovian dynamics where the system&amp;rsquo;s evolution depends on its entire history.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;h3 id=&#34;curso-20262027&#34;&gt;Curso 2026–2027&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Geometría Diferencial&lt;/strong&gt; (55 horas) — &lt;em&gt;Grado en Ingeniería Civil&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;details&gt;
+  &lt;summary&gt;&lt;strong&gt;Curso 2025–2026&lt;/strong&gt;&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matemáticas I&lt;/strong&gt; (40 horas) — &lt;em&gt;Grado en Edificación&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Álgebra lineal y geometría&lt;/strong&gt; (20 horas) — &lt;em&gt;Doble Grado Ingeniería Civil y ADE&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;br&gt;
+&lt;details&gt;
+  &lt;summary&gt;&lt;strong&gt;Curso 2024–2025&lt;/strong&gt;&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matemáticas II&lt;/strong&gt; (25 horas) — &lt;em&gt;Grado en Edificación&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Matemáticas II&lt;/strong&gt; (15 horas) — &lt;em&gt;Grado en Edificación&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Álgebra lineal y geometría&lt;/strong&gt; (10 horas) — &lt;em&gt;Doble Grado Ingeniería Civil y ADE&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Métodos numéricos&lt;/strong&gt; (15 horas) — &lt;em&gt;Grado en Ingeniería Civil&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;</description>
+    </item>
+  </channel>
+</rss>
