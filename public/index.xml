@@ -72,47 +72,33 @@
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#39;mailto:jcabreranyst@ugr.es&#39; class=&#39;accent-link&#39;&gt;jcabreranyst@ugr.es&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Office Address:&lt;/strong&gt;&lt;br&gt;
-Departamento de Matemática Aplicada (Despacho 60)&lt;br&gt;
-Facultad de Ciencias, Universidad de Granada&lt;br&gt;
-Avenida de Fuente Nueva, S/N&lt;br&gt;
-18071 Granada, Spain&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;location&#34;&gt;Location&lt;/h3&gt;
-&lt;iframe 
-    width=&#34;100%&#34; 
-    height=&#34;450&#34; 
-    frameborder=&#34;0&#34; 
-    scrolling=&#34;no&#34; 
-    marginheight=&#34;0&#34; 
-    marginwidth=&#34;0&#34; 
-    src=&#34;https://maps.google.com/maps?q=Facultad+de+Ciencias,+Universidad+de+Granada&amp;t=&amp;z=15&amp;ie=UTF8&amp;iwloc=&amp;output=embed&#34;
-    style=&#34;border: 1px solid #d9d7d2; border-radius: 6px; margin-top: 10px;&#34;&gt;
-&lt;/iframe&gt;</description>
-    </item>
-    <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>&lt;p&gt;My research centers on non-exchangeable interacting particle systems, with a specific focus on their large-population limits (both mean-field and hydrodynamic) and their long-time and collective behavior.&lt;/p&gt;
-&lt;!--
-My current methodology bridges the gap between microscopic multi-agent systems (governed by coupled ODEs) and their macroscopic descriptions (governed by PDEs like the Vlasov equation) to understand how complex, large-scale phenomena emerge.
-
-### Core Research Focus
-
-*   **Mean-Field Limits:** Deriving rigorous macroscopic limits (as $N \to \infty$) for interacting particle systems, specifically those involving singular or higher-order multiple interactions.
-*   **Heterogeneous Networks:** Extending kinetic theory to systems with distinguishable agents, utilizing graphons, probability-graphons and hypergraphs to model complex communication topologies.
- --&gt;
+      <description>&lt;h2 id=&#34;papers&#34;&gt;Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Gravitational collapse to extremal black holes with $\Lambda &amp;gt; 0$: counterexamples to the third law without charge&lt;/em&gt;. In preparation.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;
-&lt;h3 id=&#34;mean-field-limit-of-non-exchangeable-interacting-diffusions-on-co-evolutionary-networks-68-pages&#34;&gt;&lt;a href=&#34;https://arxiv.org/abs/2606.21556&#34; target=&#34;_blank&#34;&gt;Mean field limit of non-exchangeable interacting diffusions on co-evolutionary networks&lt;/a&gt; (68 pages)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Julián Cabrera-Nyst, David Poyato&lt;/strong&gt; (2026) · &lt;em&gt;arXiv:2606.21556&lt;/em&gt;&lt;/p&gt;</description>
+&lt;h2 id=&#34;talks&#34;&gt;Talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Nov 2026&lt;/span&gt;Topics in General Relativity Seminar, University of Münster&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2026&lt;/span&gt;Junior Analysis Seminar, Imperial College London&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2026&lt;/span&gt;Analysis &amp;amp; PDE Seminar, Gran Sasso Science Institute, L’Aquila&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2026&lt;/span&gt;DAMTP Friday GR Seminar, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Sep 2026&lt;/span&gt;Workshop &lt;em&gt;PDE perspectives in gravitational theory&lt;/em&gt; (flash talk), ICMS, Edinburgh&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Jul 2026&lt;/span&gt;Workshop &lt;em&gt;Horizons, Singularities and Censorship in Gravitational Collapse&lt;/em&gt;, Instituto Superior Técnico, Lisbon&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Apr 2026&lt;/span&gt;&lt;em&gt;Iberian Cosmology Meeting 2026&lt;/em&gt; (flash talk), University of Granada&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Mar 2026&lt;/span&gt;15th &lt;em&gt;OxBridge PDE Conference&lt;/em&gt;, Pembroke College, University of Oxford&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;May 2025&lt;/span&gt;BIRS workshop &lt;em&gt;Geometry, Analysis, and Physics in Lorentzian Signature&lt;/em&gt; (poster), IMAG, University of Granada&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Mar 2025&lt;/span&gt;DAMTP Theoretical Physics PhD Journal club, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Jan 2025&lt;/span&gt;7th &lt;em&gt;RSME Young Researchers Congress&lt;/em&gt;, session on &lt;em&gt;Geometric Analysis&lt;/em&gt;, UPV/EHU, Bilbao&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Mar 2023&lt;/span&gt;Part III Lent 2023 Seminar Series, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Jan 2023&lt;/span&gt;St Edmund’s Student Research Conference, St Edmund’s College, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Dec 2022&lt;/span&gt;Part III Michaelmas 2022 Seminar Series, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Aug 2022&lt;/span&gt;&lt;em&gt;XXX International Fall Workshop on Geometry and Physics&lt;/em&gt; (poster), ICMAT, Madrid&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Research</title>
@@ -154,6 +140,59 @@ My current methodology bridges the gap between microscopic multi-agent systems (
 &lt;li&gt;&lt;strong&gt;Métodos numéricos&lt;/strong&gt; (15 horas) — &lt;em&gt;Grado en Ingeniería Civil&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;</description>
+    </item>
+    <item>
+      <title>Vitae</title>
+      <link>http://localhost:1313/vitae/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/vitae/</guid>
+      <description>&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ph.D. in Applied Mathematics and Theoretical Physics&lt;/strong&gt; &lt;em&gt;(Oct 2023 – present)&lt;/em&gt;&lt;br&gt;
+University of Cambridge&lt;br&gt;
+Supervisors: Claude Warnick, Mihalis Dafermos&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Master of Advanced Study in Mathematics&lt;/strong&gt; &lt;em&gt;(Oct 2022 – Jun 2023)&lt;/em&gt;&lt;br&gt;
+University of Cambridge&lt;br&gt;
+Part III Essay: &lt;em&gt;The Penrose Inequality&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B.Sc. in Mathematics &amp;amp; B.Sc. in Physics&lt;/strong&gt; &lt;em&gt;(Sep 2016 – Jul 2022)&lt;/em&gt;&lt;br&gt;
+Universidad de Granada&lt;br&gt;
+Joint Degree Thesis: &lt;em&gt;Finsler Geometry and its applications in General Relativity&lt;/em&gt;&lt;br&gt;
+Supervisor: Miguel Sánchez Caja&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;awards-and-honours&#34;&gt;Awards and Honours&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023 – Sep 2027:&lt;/strong&gt; &lt;strong&gt;Gates Cambridge Scholarship&lt;/strong&gt; — Awarded by the Gates Cambridge Trust to undertake a PhD at the University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov 2022:&lt;/strong&gt; &lt;strong&gt;Winner of the 2nd edition of Premios Destacados BBVA-Ideal Granada&lt;/strong&gt; — Recognising the career and academic record of top graduates from the University of Granada.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2021 – Jun 2022:&lt;/strong&gt; &lt;strong&gt;Undergraduate Research Fellowship – Spanish Ministry for Education&lt;/strong&gt; — Project: &lt;em&gt;Finsler Geometry and its applications in General Relativity&lt;/em&gt; (Supervisor: Prof. Miguel Sánchez Caja).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aug 2021 – May 2022:&lt;/strong&gt; &lt;strong&gt;Introduction to Research Grant &lt;em&gt;JAE Intro&lt;/em&gt; – CSIC&lt;/strong&gt; — Discontinued in Oct 2021 due to incompatibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jun 2021 – Aug 2021:&lt;/strong&gt; &lt;strong&gt;nanoGUNE Summer Research Scholarship&lt;/strong&gt; — Project: &lt;em&gt;ESC2RAD - Enabling Smart Computation to Study Space Radiation Effects&lt;/em&gt; (Supervisor: Prof. Emilio Artacho Cortes).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan 2021 – Sep 2021:&lt;/strong&gt; &lt;strong&gt;Research Initiation Scholarship – University of Granada&lt;/strong&gt; — Project: &lt;em&gt;Finslerian extensions of General Relativity&lt;/em&gt; (Supervisor: Prof. Miguel Sánchez Caja).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jul 2020 – Sep 2020:&lt;/strong&gt; &lt;strong&gt;Erasmus+ Traineeship Grant – Institute of Astronomy, Cambridge&lt;/strong&gt; — Summer Project: &lt;em&gt;Novel image segmentation techniques: detecting cells in microscopy images&lt;/em&gt; (Supervisors: Dr Ali Dariush, Dr Eduardo Gonzalez Solares).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jan 2020:&lt;/strong&gt; &lt;strong&gt;nanoGUNE Winter School Travel Grant&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;service&#34;&gt;Service&lt;/h2&gt;
+&lt;h3 id=&#34;event-organisation&#34;&gt;Event Organisation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Jan 2027:&lt;/strong&gt; Co-organiser of the session &lt;em&gt;Mathematical Relativity and Lorentzian Geometry&lt;/em&gt;, part of the 8th RSME Young Researchers Congress, University of Zaragoza.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nov 2024:&lt;/strong&gt; Co-organiser of &lt;em&gt;Research in the United Kingdom 2024&lt;/em&gt;, University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2024 – Mar 2025:&lt;/strong&gt; Co-organiser of the Part III Seminar Series (Michaelmas 2024 and Lent 2025 editions), University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oct 2023 – present:&lt;/strong&gt; Coordinator of the &lt;em&gt;Mathematical Relativity Reading Group&lt;/em&gt;, University of Cambridge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;outreach&#34;&gt;Outreach&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2022 – 2026:&lt;/strong&gt; Mentor for the &lt;em&gt;Women and non-binary maths students mentorship programme&lt;/em&gt;, University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2024, 2025:&lt;/strong&gt; Panellist at the &lt;em&gt;Part III Exams Advice Session&lt;/em&gt;, University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2023, 2024:&lt;/strong&gt; Panellist at the &lt;em&gt;Part III International Students Welcome Session&lt;/em&gt;, University of Cambridge.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019, 2021:&lt;/strong&gt; Collaborator Student at the &lt;em&gt;European Researchers&amp;rsquo; Night&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; English (C2), French (C1), Spanish (native).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Software:&lt;/strong&gt; Mathematica, MATLAB, Python, C, C++, LaTeX.&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

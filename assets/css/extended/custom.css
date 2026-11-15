@@ -46,15 +46,19 @@ body, h1, h2, h3, h4, h5, h6, .profile_inner h1 {
 /* Name in home page not in bold font */
 
 /* 1. Change profile layout to side-by-side */
-.profile_inner {
+.main:has(.profile) {
+    max-width: calc(var(--main-width) + 130px + var(--gap) * 2) !important;
+}
+
+.profile .profile_inner {
     display: grid !important;
     grid-template-columns: 240px 1fr; /* Locks the left column to your exact image size */
     grid-template-areas: 
         "img title"
         "img subtitle"
         "icons subtitle"; /* Removed the buttons area */
-    column-gap: 80px;
-    row-gap: 30rem;
+    column-gap: 60px !important;
+    row-gap: 10px !important;
     text-align: left !important;
     align-items: start !important; /* Keeps the image at the top even if your text is long */
 }
@@ -97,3 +101,9 @@ body, h1, h2, h3, h4, h5, h6, .profile_inner h1 {
         justify-content: center !important;
     }
   }
+
+.talk-date {
+    float: right;
+    margin-left: 24px;
+    white-space: nowrap;
+}
