@@ -21,8 +21,8 @@ menu:
         - name: Research
           url: /research
           weight: 30
-        - name: Teaching
-          url: /teaching
+        - name: Contact
+          url: /contact
           weight: 40
         #- name: Papers
           #url: papers/
@@ -64,7 +64,7 @@ params:
     profileMode:
           enabled: true
           title: Mónica Tapia del Moral
-          subtitle: "Hi! I am a PhD student in Applied Mathematics and Theoretical Physics at <a href='https://www.damtp.cam.ac.uk/' style='color: #2d5049 !important;'>DAMTP</a>, <a href='https://www.cam.ac.uk/' style='color: #2d5049 !important;'>University of Cambridge</a>. My supervisors are <a href='https://www.dpmms.cam.ac.uk/~cmw50/' style='color: #2d5049 !important;'>Claude Warnick</a> and <a href='https://www.dpmms.cam.ac.uk/~md384/' style='color: #2d5049 !important;'>Mihalis Dafermos</a>.<br><br>My email is <a href='mailto:mt891@cam.ac.uk' style='color: #2d5049 !important;'>mt891[at]cam.ac.uk</a>"
+          subtitle: "Hi! I am a fourth-year PhD student at <a href='https://www.damtp.cam.ac.uk/' style='color: #2d5049 !important;'>DAMTP</a>, <a href='https://www.cam.ac.uk/' style='color: #2d5049 !important;'>University of Cambridge</a> and a <a href='https://www.gatescambridge.org' style='color: #2d5049 !important;'>Gates Cambridge Scholar</a>.<span style='display: block; margin-top: 10px;'>My supervisors are <a href='https://www.dpmms.cam.ac.uk/~cmw50/' style='color: #2d5049 !important;'>Claude Warnick</a> and <a href='https://www.dpmms.cam.ac.uk/~md384/' style='color: #2d5049 !important;'>Mihalis Dafermos</a>.</span><span style='display: block; margin-top: 10px;'>My research focuses on general relativity, using techniques from partial differential equations and differential geometry to study the Einstein equations.</span>"
           imageUrl: "profile-pic-1.jpg"
           imageWidth: 200
           imageHeight: 200

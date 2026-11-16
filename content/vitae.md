@@ -26,21 +26,24 @@ ShowPostMeta: false
 
 ## Visits
 
-*   <span class="talk-date">May 2025</span>**Fields Institute for Research in the Mathematical Sciences** (Toronto)<br>
-    Visitor as part of the thematic programme *Shocks and Singularities*, 2 weeks
-*   <span class="talk-date">Apr 2025</span>**Princeton University, Department of Mathematics**<br>
-    Visiting Student Research Collaborator, 1 month
-*   <span class="talk-date">May 2024</span>**Erwin Schrödinger International Institute for Mathematics and Physics** (Vienna)<br>
-    Visitor as part of the thematic programme *Nonlinear Waves and Relativity*, 1 week
-*   <span class="talk-date">Sep 2023</span>**Princeton University, Department of Mathematics**<br>
-    Graduate student visitor, 1 month
+*   <span class="talk-date">May 2025</span>Fields Institute for Research in the Mathematical Sciences (Toronto)
+*   <span class="talk-date">Apr 2025, Sep 2023</span>Princeton University, Department of Mathematics
+*   <span class="talk-date">May 2024</span>Erwin Schrödinger International Institute for Mathematics and Physics (Vienna)
+
+---
+
+## Teaching
+
+*   <span class="talk-date">Lent 2025, 2024</span>Part IA Analysis, supervisions (undergraduate course)
+*   <span class="talk-date">Michaelmas 2024, 2023</span>Part III General Relativity, examples classes (master’s course)
 
 ---
 
 ## Event Organisation
 
-*   <span class="talk-date">Jan 2027</span>Co-organiser of the session *Mathematical Relativity and Lorentzian Geometry*, part of the 8th RSME Young Researchers Congress, University of Zaragoza
-*   <span class="talk-date">Nov 2024</span>Co-organiser of *Research in the United Kingdom 2024*, University of Cambridge
-*   <span class="talk-date">Oct 2024 – Mar 2025</span>Co-organiser of the Part III Seminar Series (Michaelmas 2024 and Lent 2025 editions), University of Cambridge
 *   <span class="talk-date">Oct 2023 – present</span>Coordinator of the *Mathematical Relativity Reading Group*, University of Cambridge
+*   <span class="talk-date">Jan 2027</span>Co-organiser of the session *Mathematical Relativity and Lorentzian Geometry*<br>
+    [8th RSME Young Researchers Congress](https://jovenesrsme27.unizar.es/en/home/), University of Zaragoza
+*   <span class="talk-date">Nov 2024</span>Co-organiser of *Research in the United Kingdom 2024*, University of Cambridge
+*   <span class="talk-date">Oct 2024 – Mar 2025</span>Co-organiser of the Part III Seminar Series, University of Cambridge
 

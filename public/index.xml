@@ -72,6 +72,25 @@
       <description>This undergraduate course discusses profanity in Early Irish.</description>
     </item>
     <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;div class=&#34;contact-grid&#34;&gt;
+  &lt;div class=&#34;contact-info&#34;&gt;
+    &lt;p&gt;You can reach me by email at &lt;span style=&#34;font-family: &#39;Courier New&#39;, Courier, monospace; font-size: 0.88em; margin: 0 6px;&#34;&gt;mt891[at]cam.ac.uk&lt;/span&gt; or find me at:&lt;/p&gt;
+    &lt;p&gt;Office E0.01&lt;br&gt;
+    Department of Applied Mathematics and Theoretical Physics&lt;br&gt;
+    Centre for Mathematical Sciences&lt;br&gt;
+    Wilberforce Road, Cambridge CB3 0WB&lt;br&gt;
+    United Kingdom&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;contact-image&#34;&gt;
+    &lt;img src=&#34;http://localhost:1313/cms.jpg&#34; alt=&#34;Centre for Mathematical Sciences, University of Cambridge&#34; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,22 +181,24 @@ Universidad de Granada&lt;/li&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;visits&#34;&gt;Visits&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;May 2025&lt;/span&gt;&lt;strong&gt;Fields Institute for Research in the Mathematical Sciences&lt;/strong&gt; (Toronto)&lt;br&gt;
-Visitor as part of the thematic programme &lt;em&gt;Shocks and Singularities&lt;/em&gt;, 2 weeks&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Apr 2025&lt;/span&gt;&lt;strong&gt;Princeton University, Department of Mathematics&lt;/strong&gt;&lt;br&gt;
-Visiting Student Research Collaborator, 1 month&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;May 2024&lt;/span&gt;&lt;strong&gt;Erwin Schrödinger International Institute for Mathematics and Physics&lt;/strong&gt; (Vienna)&lt;br&gt;
-Visitor as part of the thematic programme &lt;em&gt;Nonlinear Waves and Relativity&lt;/em&gt;, 1 week&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Sep 2023&lt;/span&gt;&lt;strong&gt;Princeton University, Department of Mathematics&lt;/strong&gt;&lt;br&gt;
-Graduate student visitor, 1 month&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;May 2025&lt;/span&gt;Fields Institute for Research in the Mathematical Sciences (Toronto)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Apr 2025, Sep 2023&lt;/span&gt;Princeton University, Department of Mathematics&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;May 2024&lt;/span&gt;Erwin Schrödinger International Institute for Mathematics and Physics (Vienna)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Lent 2025, 2024&lt;/span&gt;Part IA Analysis, supervisions (undergraduate course)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Michaelmas 2024, 2023&lt;/span&gt;Part III General Relativity, examples classes (master’s course)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;event-organisation&#34;&gt;Event Organisation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Jan 2027&lt;/span&gt;Co-organiser of the session &lt;em&gt;Mathematical Relativity and Lorentzian Geometry&lt;/em&gt;, part of the 8th RSME Young Researchers Congress, University of Zaragoza&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Nov 2024&lt;/span&gt;Co-organiser of &lt;em&gt;Research in the United Kingdom 2024&lt;/em&gt;, University of Cambridge&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2024 – Mar 2025&lt;/span&gt;Co-organiser of the Part III Seminar Series (Michaelmas 2024 and Lent 2025 editions), University of Cambridge&lt;/li&gt;
 &lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2023 – present&lt;/span&gt;Coordinator of the &lt;em&gt;Mathematical Relativity Reading Group&lt;/em&gt;, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Jan 2027&lt;/span&gt;Co-organiser of the session &lt;em&gt;Mathematical Relativity and Lorentzian Geometry&lt;/em&gt;&lt;br&gt;
+&lt;a href=&#34;https://jovenesrsme27.unizar.es/en/home/&#34; target=&#34;_blank&#34;&gt;8th RSME Young Researchers Congress&lt;/a&gt;, University of Zaragoza&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Nov 2024&lt;/span&gt;Co-organiser of &lt;em&gt;Research in the United Kingdom 2024&lt;/em&gt;, University of Cambridge&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;talk-date&#34;&gt;Oct 2024 – Mar 2025&lt;/span&gt;Co-organiser of the Part III Seminar Series, University of Cambridge&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
   </channel>
