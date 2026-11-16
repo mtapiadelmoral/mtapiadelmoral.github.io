@@ -4,6 +4,12 @@ author: []
 ShowPostMeta: false
 ---
 
+## Research Interests
+
+General relativity; more broadly, hyperbolic PDEs, geometric analysis, and Lorentzian geometry.
+
+---
+
 ## Papers
 
 *   Gravitational collapse to extremal black holes with $\Lambda > 0$: counterexamples to the third law without charge<br>

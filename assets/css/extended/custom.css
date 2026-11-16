@@ -32,7 +32,7 @@
 
 /* Apply the font to the entire website */
 body, h1, h2, h3, h4, h5, h6, .profile_inner h1 {
-  font-family: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif !important;
+  font-family: "CMU Concrete", "Computer Modern Concrete", "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif !important;
 }
 
 /* Name in home page not in bold font */
@@ -74,7 +74,7 @@ body {
     flex: 1;
     width: 100%;
     min-height: auto !important;
-    max-width: calc(var(--main-width) + 140px + var(--gap) * 2) !important;
+    max-width: calc(var(--main-width) + 175px + var(--gap) * 2) !important;
 }
 
 .footer {
@@ -162,21 +162,39 @@ body {
 }
 
 .post-content ul {
+    list-style: none !important;
     margin-left: 0 !important;
-    padding-inline-start: 18px !important;
+    padding-inline-start: 0 !important;
 }
 
-#talks + ul,
-#education + ul,
-#awards + ul,
-#teaching + ul {
-    list-style: none !important;
-    padding-inline-start: 0 !important;
-    margin-left: 0 !important;
+.post-content ul > li {
+    position: relative;
+    padding-left: 16px;
+}
+
+.post-content ul > li::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    color: #4e7c6f;
+}
+
+#talks + ul > li,
+#education + ul > li,
+#awards-and-scholarships + ul > li,
+#teaching + ul > li {
+    padding-left: 0 !important;
+}
+
+#talks + ul > li::before,
+#education + ul > li::before,
+#awards-and-scholarships + ul > li::before,
+#teaching + ul > li::before {
+    content: none !important;
 }
 
 #talks + ul li,
-#awards + ul li,
+#awards-and-scholarships + ul li,
 #visits + ul li,
 #teaching + ul li {
     margin-top: 10px !important;
@@ -200,6 +218,11 @@ body {
 .post-content hr {
     margin-left: -24px !important;
     margin-right: -24px !important;
+    background: #7ca397 !important;
+}
+
+.post-single:has(#education, #papers) > .post-header {
+    display: none !important;
 }
 
 .main:has(.contact-grid) {

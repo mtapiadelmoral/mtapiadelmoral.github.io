@@ -15,20 +15,10 @@ ShowPostMeta: false
 
 ---
 
-## Awards
-
-*   <span class="talk-date">Oct 2023 – Sep 2027</span>Gates Cambridge Scholarship
-*   <span class="talk-date">Oct 2021 – Jun 2022</span>Undergraduate Research Fellowship – Spanish Ministry for Education
-*   <span class="talk-date">Jan 2021 – Sep 2021</span>Research Initiation Scholarship – University of Granada
-*   <span class="talk-date">Jul 2020 – Sep 2020</span>Erasmus<span style="font-size: 0.8em; vertical-align: 0.08em;">+</span> Traineeship Grant – Institute of Astronomy, Cambridge
-
----
-
 ## Visits
 
-*   <span class="talk-date">May 2025</span>Fields Institute for Research in the Mathematical Sciences (Toronto)
 *   <span class="talk-date">Apr 2025, Sep 2023</span>Princeton University, Department of Mathematics
-*   <span class="talk-date">May 2024</span>Erwin Schrödinger International Institute for Mathematics and Physics (Vienna)
+*   Shorter visits: Fields Institute (Toronto), May 2025; ESI (Vienna), May 2024
 
 ---
 
