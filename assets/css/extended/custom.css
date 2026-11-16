@@ -89,7 +89,7 @@ body {
 
 .main .profile {
     min-height: auto !important;
-    padding-top: 6rem !important;
+    padding-top: 8rem !important;
 }
 
 .profile .profile_inner {
@@ -136,24 +136,30 @@ body {
 }
 /* 4. Make it stack nicely on mobile phones */
 @media (max-width: 768px) {
-    .profile_inner {
-        grid-template-columns: 1fr;
+    .main .profile {
+        padding-top: 2rem !important;
+    }
+    .profile .profile_inner {
+        grid-template-columns: 1fr !important;
+        grid-template-rows: auto !important;
         grid-template-areas: 
             "img"
-            "icons"      /* On mobile, icons will stay right under the image */
             "title"
-            "subtitle"; /* Removed the buttons area */
+            "subtitle"
+            "icons" !important;
         text-align: center !important;
-        row-gap: 1.5rem;
+        row-gap: 1.2rem !important;
         align-items: center !important;
+        justify-items: center !important;
     }
+    .profile-img-wrap,
     .profile_inner img {
         margin: 0 auto !important;
     }
     .profile_inner .social-icons, .profile_inner .buttons {
         justify-content: center !important;
     }
-  }
+}
 
 .talk-date {
     float: right;
