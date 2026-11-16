@@ -6,15 +6,15 @@
     --header-height: 44px;
     --footer-height: 70px;
     --radius: 8px;
-    --theme: rgba(64, 116, 93, 0.46); /* Color de fondo de las otras páginas */
-    --entry: rgba(64, 116, 93, 0.46);
+    --theme: rgba(64, 116, 93, 0.30); /* Color de fondo de las otras páginas */
+    --entry: rgba(64, 116, 93, 0.30);
     --primary: rgb(2, 2, 2);  /*color del texto de la página principal*/
     --secondary: rgb(0, 0, 0);  /*color del texto de la parte de abajo*/
     --tertiary: rgba(110, 170, 150, 0.479); /* Color de los botones y de las líneas */
     --gray: rgb(165, 165, 165);
     --content: rgb(30, 30, 30);
     --code-block-bg: rgba(46, 158, 189, 0.096);
-    --code-bg: rgba(64, 116, 93, 0.46);    /*color de fondo*/
+    --code-bg: rgba(64, 116, 93, 0.30);    /*color de fondo*/
     --border: rgb(20, 9, 9);
     --darkcolor: #0d1a38;
     --lightcolor: #282a2e4e;
