@@ -32,7 +32,7 @@
 
 /* Apply the font to the entire website */
 body, h1, h2, h3, h4, h5, h6, .profile_inner h1 {
-  font-family: "CMU Concrete", "Computer Modern Concrete", "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif !important;
+  font-family: "Latin Modern Roman", "Computer Modern Serif", "CMU Serif", serif !important;
 }
 
 /* Name in home page not in bold font */

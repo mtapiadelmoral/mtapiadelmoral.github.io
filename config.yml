@@ -38,7 +38,7 @@ menu:
           #weight: 6
 
 params:
-    description: "This website hosts Mónica Tapia del Moral research papers, research interests, curriculum vitae, and contact information."
+    description: ""
     author: Mónica Tapia del Moral
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
